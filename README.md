@@ -1,12 +1,13 @@
 # Vehicle-thefts-data-analysis
 An analysis of NZ vehicle thefts for the 6 month period ending April 6th 2021. 
-Data was made up of three tables; 
+Data was made up of three tables: 
 * "stolen vehicles" fact data containing the details of each theft
 * "make details" dimension data containing manufacturer and luxury/standard flag
 * "locations" dimension data with region and population data.
+
 Data was downloaded from Maven Analytics. 
 ## Data preparation and cleansing in Excel
-* Created a calendar lookup table for use in Power Bi
+* Created a calendar lookup table for use in Power BI
 * The following cleaning steps were performed on the stolen vehicles table using MS Excel:
   * Removed rows with null primary key, vehicle type and make id
   * Null vehicle descriptions changed to "Unknown"
