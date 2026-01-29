@@ -5,6 +5,8 @@ The following cleaning steps were performed on the source data using MS Excel:
 *
 ## Power BI
 Screenshots from the Power BI:
+![Uploading finctional police png 2.png…]()
+
 ## Snowflake SQL
 Data was uploaded to Snowflake and several queries performed
 ## Summary PowerPoint
