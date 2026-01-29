@@ -5,7 +5,8 @@ The following cleaning steps were performed on the source data using MS Excel:
 *
 ## Power BI
 Screenshots from the Power BI:
-<img width="1533" height="705" alt="fictional police png 2" src="https://github.com/user-attachments/assets/48e6d2cd-9d68-45a6-8917-ff17c8056202" />
+<img width="1410" height="794" alt="Vehicle thefts1" src="https://github.com/user-attachments/assets/27df251a-e912-48b7-822e-a021963743e7" />
+
 
 ## Snowflake SQL
 Data was uploaded to Snowflake and several queries performed
