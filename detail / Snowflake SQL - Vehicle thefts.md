@@ -2,9 +2,19 @@
 ## Analysis
 Data was uploaded to Snowflake and queries performed to determine:
 * Number of thefts in total
+  <img width="754" height="209" alt="image" src="https://github.com/user-attachments/assets/bfd5e16e-adcb-4856-b666-a315bb7c7b9b" />
+
 * Most stolen type of car
+ <img width="736" height="460" alt="image" src="https://github.com/user-attachments/assets/467450eb-b497-48bb-b59c-6db46ab0f042" />
+
 * Most stolen make / model
-* Regions with the highest thefts and highest thefts per capita
+* <img width="741" height="514" alt="image" src="https://github.com/user-attachments/assets/92f740fd-242a-4938-8ff3-77df21c58688" />
+
+* Regions with the highest thefts
+ * Total thefts
+ 
+ * Thefts per capita
+ 
 * Thefts by day of week
 * Average age of vehicles when stolen
   * Overall
