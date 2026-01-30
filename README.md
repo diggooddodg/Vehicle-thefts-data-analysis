@@ -6,7 +6,10 @@ Data was made up of three tables:
 * "locations" dimension data with region and population data.
 
 Data was downloaded from Maven Analytics. 
-## Data preparation and cleansing in Excel
+## Data preparation and cleansing
+### Using SQL
+* Fixed dates whose year was 0022 and 0021
+### Using Excel
 * Created a calendar lookup table for use in Power BI
 * The following cleaning steps were performed on the stolen vehicles table using MS Excel:
   * Removed blank rows
