@@ -7,7 +7,7 @@ Data was made up of three tables:
 
 Data was downloaded from Maven Analytics. 
 ## Data preparation and cleansing
-### Using SQL
+### Using Snowflake SQL
 * Fixed dates whose year was 0022 and 0021
 ### Using Excel
 * Created a calendar lookup table for use in Power BI
