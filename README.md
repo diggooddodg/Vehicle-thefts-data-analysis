@@ -9,7 +9,7 @@ Data was downloaded from Maven Analytics.
 ## Data preparation and cleansing in Excel
 * Created a calendar lookup table for use in Power BI
 * The following cleaning steps were performed on the stolen vehicles table using MS Excel:
-  * Removed rows with null primary key, vehicle type and make id
+  * Removed blank rows
   * Null vehicle descriptions changed to "Unknown"
   * Fixed trailer descriptions so that they were consistent ("home built" now part of "homemade")
 ## Power BI
