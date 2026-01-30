@@ -15,18 +15,23 @@ Data was downloaded from Maven Analytics.
   * Removed blank rows
   * Null vehicle descriptions changed to "Unknown"
   * Fixed trailer descriptions so that they were consistent ("home built" now part of "homemade")
+
 ## Power BI
 ### Overview
 <img width="1410" height="794" alt="Vehicle thefts1" src="https://github.com/user-attachments/assets/27df251a-e912-48b7-822e-a021963743e7" />
-
 ### Regional
 <img width="1399" height="800" alt="Vehicle thefts2" src="https://github.com/user-attachments/assets/b9b9594c-794d-44fc-846d-bb6b4a95e331" />
-
 ### Correlation with regional population
 <img width="1414" height="796" alt="Vehicle thefts3" src="https://github.com/user-attachments/assets/22a64c9a-6ee3-4ff0-ad02-d4c692ea47a6" />
 
 ## Snowflake SQL
-Data was uploaded to Snowflake and several queries performed
+Data was uploaded to Snowflake and queries performed to determine:
+* Number of thefts in total
+* Most stolen type of car
+* Most stolen make / model
+* Regions with the highest thefts and highest thefts per capita
+* Thefts by day of week
+* Average age of vehicles when stolen
 
 ## Summary PowerPoint
 Summary of findings may be seen here:
