@@ -6,7 +6,7 @@ Data was uploaded to Snowflake and queries performed to determine:
   <img width="754" height="209" alt="image" src="https://github.com/user-attachments/assets/bfd5e16e-adcb-4856-b666-a315bb7c7b9b" />
 
   * By region
-<img width="744" height="598" alt="image" src="https://github.com/user-attachments/assets/63833d47-5614-4523-bff0-19747c4ee4d7" />
+  <img width="744" height="598" alt="image" src="https://github.com/user-attachments/assets/63833d47-5614-4523-bff0-19747c4ee4d7" />
 
 * Most stolen type of car
  <img width="736" height="460" alt="image" src="https://github.com/user-attachments/assets/467450eb-b497-48bb-b59c-6db46ab0f042" />
