@@ -8,7 +8,7 @@ Data was made up of three tables:
 Data was downloaded from Maven Analytics. 
 ## Data preparation and cleansing
 ### Using Snowflake SQL
-* Fixed dates whose year was 0022 and 0021. For SQL used [please see here](https://github.com/diggooddodg/Vehicle-thefts-data-analysis/blob/main/detail%20/Snowflake%20SQL%20-%20cleaning.md)
+* Fixed dates whose year was 0022 and 0021. [Please see here for SQL used.](https://github.com/diggooddodg/Vehicle-thefts-data-analysis/blob/main/detail%20/Snowflake%20SQL%20-%20cleaning.md)
 ### Using Excel
 * Created a calendar lookup table for use in Power BI
 * The following cleaning steps were performed on the stolen vehicles table using MS Excel:
@@ -27,7 +27,7 @@ Data was downloaded from Maven Analytics.
 <img width="1414" height="796" alt="Vehicle thefts3" src="https://github.com/user-attachments/assets/22a64c9a-6ee3-4ff0-ad02-d4c692ea47a6" />
 
 ## Snowflake SQL
-Data was uploaded to Snowflake and queries performed to determine various metrics including the following. [Please see here for SQL used](https://github.com/diggooddodg/Vehicle-thefts-data-analysis/blob/main/detail%20/%20Snowflake%20SQL%20-%20Vehicle%20thefts.md)
+Data was uploaded to Snowflake and queries performed to determine various metrics including the following. [Please see here for SQL used.](https://github.com/diggooddodg/Vehicle-thefts-data-analysis/blob/main/detail%20/%20Snowflake%20SQL%20-%20Vehicle%20thefts.md)
 * Number of thefts in total
 * Most stolen type of car
 * Most stolen make / model
