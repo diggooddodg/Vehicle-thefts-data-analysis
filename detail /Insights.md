@@ -4,9 +4,9 @@ For 6 months ending 6th April 2022.
 ## Overall Snapshot
 
 - **4,538 total vehicle thefts** recorded during the analysis period
-- **Toyota Hilux** is the most frequently stolen vehicle
+- **Toyota Hilux** was the most frequently stolen vehicle
 - **Average stolen vehicle age:** 16 years
-- Vehicle theft is heavily concentrated in major population centres
+- Vehicle theft was heavily concentrated in major population centres
 
 ---
 
@@ -17,22 +17,22 @@ For 6 months ending 6th April 2022.
 
 ### Daily Patterns
 
-- Mondays and Tuesdays record the highest number of thefts
-- Weekends show lower theft volumes compared with weekdays
+- Mondays and Tuesdays recorded the highest number of thefts
+- Weekends showed lower theft volumes compared with weekdays
 
 ---
 
 ## Most Common Vehicle Types Stolen
 
-- Station wagons are the most frequently stolen vehicle type
-- Saloons and hatchbacks account for a significant share of thefts
-- Utility vehicles and trailers are commonly targeted
-- Sports cars and caravans represent a very small proportion of thefts
+- Station wagons were the most frequently stolen vehicle type
+- Saloons and hatchbacks accounted for a significant share of thefts
+- Utility vehicles and trailers were commonly targeted
+- Sports cars and caravans represented a very small proportion of thefts
 
 ### Most Frequently Stolen Vehicle Models
 
-- Toyota Hilux is the most stolen vehicle model
-- Other commonly stolen models include:
+- Toyota Hilux was the most stolen vehicle model
+- Other commonly stolen models included:
   - Ford Courier
   - Mazda Demio
   - Subaru Legacy
@@ -43,15 +43,15 @@ For 6 months ending 6th April 2022.
 ## Thefts by Region 
 ### Total Volumes
 
-- Auckland records the highest total number of vehicle thefts
-- Canterbury and Bay of Plenty follow as the next highest regions
+- Auckland recorded the highest total number of vehicle thefts
+- Canterbury and Bay of Plenty followed as the next highest regions
 - No thefts were reported in Marlborough, Tasman and West Coast
 
 ### Thefts Per Capita
 
-- Gisborne has the highest theft rate per capita
-- Nelson also shows a disproportionately high per-capita rate
-- Smaller regions can face high risk despite lower populations
+- Gisborne had the highest theft rate per capita
+- Nelson also showed a disproportionately high per-capita rate
+- This showed that smaller regions faced high risk despite lower populations
 
 ---
 
