@@ -27,7 +27,7 @@ Data was downloaded from Maven Analytics.
 <img width="1414" height="796" alt="Vehicle thefts3" src="https://github.com/user-attachments/assets/22a64c9a-6ee3-4ff0-ad02-d4c692ea47a6" />
 
 ## Snowflake SQL
-Data was uploaded to Snowflake and queries performed to determine:
+Data was uploaded to Snowflake and queries performed to determine various metrics including the following. [Please see here for SQL used]()
 * Number of thefts in total
 * Most stolen type of car
 * Most stolen make / model
