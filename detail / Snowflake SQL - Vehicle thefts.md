@@ -14,11 +14,12 @@ Data was uploaded to Snowflake and queries performed to determine:
 
   * By region
   
-  <img width="482" height="438" alt="image" src="https://github.com/user-attachments/assets/cf1cf78d-e6ef-489c-af4f-7dbccf6df00a" />
-  <img width="738" height="372" alt="image" src="https://github.com/user-attachments/assets/87ff223a-8dde-434f-85a0-d15aeca70b29" />
+   <img width="482" height="438" alt="image" src="https://github.com/user-attachments/assets/cf1cf78d-e6ef-489c-af4f-7dbccf6df00a" />
+   <img width="738" height="372" alt="image" src="https://github.com/user-attachments/assets/87ff223a-8dde-434f-85a0-d15aeca70b29" />
 
 * Thefts by region
-  <img width="744" height="598" alt="image" src="https://github.com/user-attachments/assets/63833d47-5614-4523-bff0-19747c4ee4d7" />
+  
+<img width="744" height="598" alt="image" src="https://github.com/user-attachments/assets/63833d47-5614-4523-bff0-19747c4ee4d7" />
  
  * Thefts by region per capita
 <img width="753" height="629" alt="image" src="https://github.com/user-attachments/assets/41a54d04-6e62-42b6-8dc8-2d87e65b45c7" />
