@@ -8,8 +8,10 @@ Data was uploaded to Snowflake and queries performed to determine:
  <img width="736" height="460" alt="image" src="https://github.com/user-attachments/assets/467450eb-b497-48bb-b59c-6db46ab0f042" />
 
 * Most stolen make / model
-  * Overall <img width="741" height="514" alt="image" src="https://github.com/user-attachments/assets/92f740fd-242a-4938-8ff3-77df21c58688" />
-  * By region <img width="482" height="438" alt="image" src="https://github.com/user-attachments/assets/cf1cf78d-e6ef-489c-af4f-7dbccf6df00a" />
+  * Overall
+    <img width="741" height="514" alt="image" src="https://github.com/user-attachments/assets/92f740fd-242a-4938-8ff3-77df21c58688" />
+  * By region
+    <img width="482" height="438" alt="image" src="https://github.com/user-attachments/assets/cf1cf78d-e6ef-489c-af4f-7dbccf6df00a" />
   <img width="738" height="372" alt="image" src="https://github.com/user-attachments/assets/87ff223a-8dde-434f-85a0-d15aeca70b29" />
 
 * Regions with the highest thefts
