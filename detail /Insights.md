@@ -6,7 +6,7 @@ For the 6 months ending 6th April 2022
 - **4,538 total vehicle thefts** recorded during the analysis period
 - **Toyota Hilux** is the most frequently stolen vehicle
 - **Average stolen vehicle age:** 16 years
-- Vehicle theft is widespread nationally, but heavily concentrated in major population centres
+- Vehicle theft is heavily concentrated in major population centres
 
 ---
 
@@ -31,11 +31,9 @@ For the 6 months ending 6th April 2022
 - Utility vehicles and trailers are commonly targeted
 - Sports cars and caravans represent a very small proportion of thefts
 
----
+### Most Frequently Stolen Vehicle Models
 
-## Most Frequently Stolen Vehicles
-
-- Toyota Hilux is the single most stolen vehicle model
+- Toyota Hilux is the most stolen vehicle model
 - Other commonly stolen models include:
   - Ford Courier
   - Mazda Demio
@@ -45,16 +43,15 @@ For the 6 months ending 6th April 2022
 
 ---
 
-## Thefts by Region (Total Volume)
+## Thefts by Region 
+### Total Volumes
 
 - Auckland records the highest total number of vehicle thefts
 - Canterbury and Bay of Plenty follow as the next highest regions
 - Wellington and Waikato also show notable theft volumes
 - Marlborough and Southland report very low theft counts
 
----
-
-## Thefts Per Capita
+### Thefts Per Capita
 
 - Gisborne has the highest theft rate per capita
 - Nelson also shows a disproportionately high per-capita rate
@@ -76,13 +73,3 @@ For the 6 months ending 6th April 2022
 - Some regions deviate, indicating localised risk factors
 
 ---
-
-## Key Takeaways
-
-- Vehicle theft is increasing over time
-- Urban regions dominate total theft volumes
-- Per-capita risk varies significantly by region
-- Prevention strategies should consider:
-  - Per-capita risk
-  - Weekday theft patterns
-  - High-risk vehicle categories
