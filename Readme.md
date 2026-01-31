@@ -1,4 +1,4 @@
-# Vehicle-thefts-data-analysis
+# Aotearoa / New Zealand vehicle thefts data analysis
 An analysis of New Zealand vehicle thefts for the 6 month period ending April 6th 2021. 
 Data was made up of three tables: 
 * "stolen vehicles" fact data containing the details of each theft
