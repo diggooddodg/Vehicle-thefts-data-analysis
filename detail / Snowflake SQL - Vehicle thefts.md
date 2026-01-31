@@ -1,7 +1,5 @@
-# Tasks performed in Snowflake SQL
-## Analysis
-Data was uploaded to Snowflake and queries performed to determine:
-* Number of thefts overall
+# Analysis performed in Snowflake SQL
+## Number of thefts overall
 <img width="754" height="209" alt="image" src="https://github.com/user-attachments/assets/bfd5e16e-adcb-4856-b666-a315bb7c7b9b" />
 
 * Most stolen type of car
