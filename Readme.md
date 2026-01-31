@@ -28,5 +28,5 @@ Data was uploaded to Snowflake and queries performed to determine various metric
 * Thefts by day of week
 * Average age of vehicles when stolen
 
-## Summary PowerPoint
-Summary of findings may be seen here:
+## Executive Summary 
+[Click here for an executive summary.](https://github.com/diggooddodg/Vehicle-thefts-data-analysis/blob/main/detail%20/Insights.md)  
