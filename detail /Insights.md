@@ -1,5 +1,5 @@
-## Vehicle Theft Insights – Executive Summary
-For the 6 months ending 6th April 2022
+# Vehicle Theft Insights – Executive Summary
+For 6 months ending 6th April 2022.
 
 ## Overall Snapshot
 
@@ -14,19 +14,17 @@ For the 6 months ending 6th April 2022
 
 - Weekly thefts increased steadily from late 2021 into early 2022
 - Clear peaks in theft activity during March–April 2022
-- Overall trend suggests rising theft risk over time
 
 ### Daily Patterns
 
 - Mondays and Tuesdays record the highest number of thefts
 - Weekends show lower theft volumes compared with weekdays
-- Theft activity aligns with weekday travel and work routines
 
 ---
 
 ## Most Common Vehicle Types Stolen
 
-- Stationwagons are the most frequently stolen vehicle type
+- Station wagons are the most frequently stolen vehicle type
 - Saloons and hatchbacks account for a significant share of thefts
 - Utility vehicles and trailers are commonly targeted
 - Sports cars and caravans represent a very small proportion of thefts
@@ -39,7 +37,6 @@ For the 6 months ending 6th April 2022
   - Mazda Demio
   - Subaru Legacy
   - Mazda Atenza
-- Theft risk is spread across many models rather than concentrated in one
 
 ---
 
@@ -48,15 +45,13 @@ For the 6 months ending 6th April 2022
 
 - Auckland records the highest total number of vehicle thefts
 - Canterbury and Bay of Plenty follow as the next highest regions
-- Wellington and Waikato also show notable theft volumes
-- Marlborough and Southland report very low theft counts
+- No thefts were reported in Marlborough, Tasman and West Coast
 
 ### Thefts Per Capita
 
 - Gisborne has the highest theft rate per capita
 - Nelson also shows a disproportionately high per-capita rate
 - Smaller regions can face high risk despite lower populations
-- Per-capita analysis reveals risk not visible in raw totals
 
 ---
 
