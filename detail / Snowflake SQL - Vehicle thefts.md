@@ -2,7 +2,7 @@
 ## Analysis
 Data was uploaded to Snowflake and queries performed to determine:
 * Number of thefts overall
-  <img width="754" height="209" alt="image" src="https://github.com/user-attachments/assets/bfd5e16e-adcb-4856-b666-a315bb7c7b9b" />
+<img width="754" height="209" alt="image" src="https://github.com/user-attachments/assets/bfd5e16e-adcb-4856-b666-a315bb7c7b9b" />
 
 * Most stolen type of car
  <img width="736" height="460" alt="image" src="https://github.com/user-attachments/assets/467450eb-b497-48bb-b59c-6db46ab0f042" />
