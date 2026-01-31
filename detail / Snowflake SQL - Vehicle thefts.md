@@ -18,8 +18,12 @@ Data was uploaded to Snowflake and queries performed to determine:
   <img width="744" height="598" alt="image" src="https://github.com/user-attachments/assets/63833d47-5614-4523-bff0-19747c4ee4d7" />
  
  * Thefts by region per capita
+<img width="753" height="629" alt="image" src="https://github.com/user-attachments/assets/41a54d04-6e62-42b6-8dc8-2d87e65b45c7" />
  
 * Thefts by day of week
+<img width="752" height="415" alt="image" src="https://github.com/user-attachments/assets/f4638279-54b2-4b90-af2f-c4665a7fee71" />
+
+
 * Average age of vehicles when stolen
   * Overall
     <img width="746" height="287" alt="image" src="https://github.com/user-attachments/assets/c0a3d254-45ad-49cc-9985-2aeb5d9c5b0d" />
