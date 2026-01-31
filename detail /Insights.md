@@ -57,14 +57,7 @@ For 6 months ending 6th April 2022.
 
 ## Population & Density Correlation
 
-### Population Size
-
 - Strong positive correlation between population size and total thefts
-- Larger populations generally experience higher theft volumes
-
-### Population Density
-
-- Higher density areas tend to experience higher theft levels
-- Some regions deviate, indicating localised risk factors
+- Generally, higher density areas tended to experience higher theft levels but some regions deviated, indicating localised risk factors
 
 ---
