@@ -8,7 +8,7 @@ Data was made up of three tables:
 Data was downloaded from Maven Analytics. 
 ## Data preparation and cleansing
 ### Using Snowflake SQL
-* Fixed dates whose year was 0022 and 0021. PLease see [detail here](https://www.markdownguide.org)
+* Fixed dates whose year was 0022 and 0021. PLease see [detail here](https://github.com/diggooddodg/Vehicle-thefts-data-analysis/blob/main/detail%20/Snowflake%20SQL%20-%20cleaning.md)
 ### Using Excel
 * Created a calendar lookup table for use in Power BI
 * The following cleaning steps were performed on the stolen vehicles table using MS Excel:
