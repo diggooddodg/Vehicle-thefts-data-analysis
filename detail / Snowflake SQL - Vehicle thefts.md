@@ -35,12 +35,3 @@
 
 <img width="739" height="520" alt="image" src="https://github.com/user-attachments/assets/3bfcf74a-ec96-4e17-b5d7-ba8088131a39" />
 
-  
-
-
-
-## Data cleansing
-When trying calculate the vehicle age above some of the results were negative.
-1. I checked the year:
-
-
