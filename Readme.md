@@ -1,10 +1,8 @@
 # Aotearoa / New Zealand vehicle thefts data analysis
-An analysis of New Zealand vehicle thefts for the 6 month period ending April 6th 2021 using **Power BI** and **Snowflake SQL**. 
+An analysis of New Zealand vehicle thefts for the 6 month period ending April 6th 2021 using **Snowflake SQL** and **Power BI**. 
 
 ## Data preparation and cleansing using Snowflake SQL and Excel
 [Detail of the preparation and cleaning steps may be seen here.](https://github.com/diggooddodg/Vehicle-thefts-data-analysis/blob/main/detail%20/Snowflake%20SQL%20-%20cleaning.md)
-
-
 
 ## Analysis using Snowflake SQL
 Data was uploaded to Snowflake and queries performed to determine various metrics including the following. [SQL analysis may be seen here.](https://github.com/diggooddodg/Vehicle-thefts-data-analysis/blob/main/detail%20/%20Snowflake%20SQL%20-%20Vehicle%20thefts.md)
