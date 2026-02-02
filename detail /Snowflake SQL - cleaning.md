@@ -1,5 +1,5 @@
 # Data cleaning performed in Snowflake SQL
-When calculating vehicle age the values were negative, this led to the following
+When calculating vehicle age the values were negative, this led to the following investigation and fix.
 ### Check theft counts by year
 <img width="760" height="342" alt="image" src="https://github.com/user-attachments/assets/9a108aa4-dc67-43f4-bd01-a3de27721e97" />
 
