@@ -14,7 +14,7 @@ Data was uploaded to Snowflake and queries performed to determine various metric
 * Average age of vehicles when stolen
 
 ## Power BI
-A Power BI report was created. [Screenshots may be seen here.](https://github.com/diggooddodg/Vehicle-thefts-data-analysis/blob/main/detail%20/Power%20BI%20screenshots.md)
+[Screenshots form the Power BI report may be seen here.](https://github.com/diggooddodg/Vehicle-thefts-data-analysis/blob/main/detail%20/Power%20BI%20screenshots.md)
 
 ## Executive Summary 
 [Executive summary of the findings may be seen here.](https://github.com/diggooddodg/Vehicle-thefts-data-analysis/blob/main/detail%20/Insights.md)  
