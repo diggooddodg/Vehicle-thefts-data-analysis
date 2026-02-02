@@ -14,7 +14,7 @@ Data was downloaded from Maven Analytics.
   * Null vehicle descriptions changed to "Unknown"
   * Fixed trailer descriptions so that they were consistent ("home built" now part of "homemade")
 ### Data cleanse using Snowflake SQL
-* Some years were changed to 0022 and 0021 when importing to Snowflake. [This was fixed using SQL that may be seen here.](https://github.com/diggooddodg/Vehicle-thefts-data-analysis/blob/main/detail%20/Snowflake%20SQL%20-%20cleaning.md)
+* During import to Snowflake, some years were changed to 0022 and 0021. [This was fixed using SQL that may be seen here.](https://github.com/diggooddodg/Vehicle-thefts-data-analysis/blob/main/detail%20/Snowflake%20SQL%20-%20cleaning.md)
 
 ## Power BI
 A Power BI report was created. [Screenshots may be seen here.](https://github.com/diggooddodg/Vehicle-thefts-data-analysis/blob/main/detail%20/Power%20BI%20screenshots.md)
