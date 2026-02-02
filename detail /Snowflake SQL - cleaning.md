@@ -13,7 +13,7 @@ Data was downloaded from Maven Analytics.
   * Fixed trailer descriptions so that they were consistent ("home built" now part of "homemade")
 
 ## Data cleaning performed in Snowflake SQL
-When calculating vehicle age in Snowflake the values were negative, this led to the following investigation and fix.
+When calculating vehicle age in Snowflake the values were negative, this led to the following investigation and fix. (As can be seen below during import to Snowflake, some years were automatically changed to 0022 and 0021.)
 ### Check theft counts by year
 <img width="760" height="342" alt="image" src="https://github.com/user-attachments/assets/9a108aa4-dc67-43f4-bd01-a3de27721e97" />
 
