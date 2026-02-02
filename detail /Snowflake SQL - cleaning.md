@@ -1,5 +1,19 @@
-# Data cleaning performed in Snowflake SQL
-When calculating vehicle age the values were negative, this led to the following investigation and fix.
+# Data preparation and cleanse
+Data was in csv format and made up of three tables: 
+* "stolen vehicles" fact data containing the details of each theft
+* "make details" dimension data containing manufacturer and luxury/standard flag
+* "locations" dimension data with region and population data.
+Data was downloaded from Maven Analytics.
+
+## Data preparation and cleanse using Excel
+* Created a calendar lookup table for use in Power BI
+* The following cleaning steps were performed on the stolen vehicles table using MS Excel:
+  * Removed blank rows
+  * Null vehicle descriptions changed to "Unknown"
+  * Fixed trailer descriptions so that they were consistent ("home built" now part of "homemade")
+
+## Data cleaning performed in Snowflake SQL
+When calculating vehicle age in Snowflake the values were negative, this led to the following investigation and fix.
 ### Check theft counts by year
 <img width="760" height="342" alt="image" src="https://github.com/user-attachments/assets/9a108aa4-dc67-43f4-bd01-a3de27721e97" />
 
