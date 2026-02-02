@@ -16,7 +16,7 @@ Data was downloaded from Maven Analytics.
 ### Data cleanse using Snowflake SQL
 * During import to Snowflake, some years were changed to 0022 and 0021. [This was fixed using SQL that may be seen here.](https://github.com/diggooddodg/Vehicle-thefts-data-analysis/blob/main/detail%20/Snowflake%20SQL%20-%20cleaning.md)
 
-## Snowflake SQL
+## Analysis using Snowflake SQL
 Data was uploaded to Snowflake and queries performed to determine various metrics including the following. [SQL analysis may be seen here.](https://github.com/diggooddodg/Vehicle-thefts-data-analysis/blob/main/detail%20/%20Snowflake%20SQL%20-%20Vehicle%20thefts.md)
 * Number of thefts in total
 * Most stolen type of car
