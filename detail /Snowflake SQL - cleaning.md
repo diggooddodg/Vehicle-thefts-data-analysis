@@ -26,10 +26,6 @@ When calculating vehicle age in Snowflake the values were negative, this led to 
 <img width="646" height="145" alt="image" src="https://github.com/user-attachments/assets/db1db491-b95f-47ff-9bae-afd75e9db43b" />
 <br>
 <img width="757" height="166" alt="image" src="https://github.com/user-attachments/assets/20e9f3aa-aea4-4c9e-87f2-3a986f7be74e" />
-<br>
-
-<img width="753" height="296" alt="image" src="https://github.com/user-attachments/assets/3aaf106d-ec93-4ddf-87f1-872943e22086" />
-
 
 ### Check again
 <img width="757" height="266" alt="image" src="https://github.com/user-attachments/assets/66ab7d8f-6361-47b1-8586-afc0d0443ff3" />
